@@ -1,6 +1,6 @@
 # Tinkerweek Learning Camp
 
-The Material is designed for a learning camp at [TinkerHub Foundation](https://github.com/tinkerhub-org) on Data Analysis using Python
+The Material is designed for a learning camp at [TinkerHub Foundation](https://github.com/tinkerhub-org) on Data Analysis using Python.
 
 ## Pre-requisites 
 
