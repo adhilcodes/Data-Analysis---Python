@@ -1,4 +1,6 @@
-# Tinkerweek Learning Camp
+ ![](https://avatars3.githubusercontent.com/u/45253922?s=200&v=4) 
+ # Tinkerweek Learning Camp
+
 
 The Material is designed for a learning camp at [TinkerHub Foundation](https://github.com/tinkerhub-org) on Data Analysis using Python.
 
